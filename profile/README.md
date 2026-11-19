@@ -1,10 +1,17 @@
-# PEC Digital Manufacturing Hub
+# Welcome to "PEC Digital Manufacturing Hub"
 
 PEC Digital Manufacturing Hub は、Panasonic Energyにおけるデジタル製造・データ活用・業務アプリケーション開発に関する
 **ソフトウェア、データ処理ロジック、データ構造、技術定義を継続的に管理・共有・再利用するためのGitHub Organization** です。
 
 GitHubをデジタルエンジニアリング資産の **Single Source of Truth（SSOT）** として活用し、
 個人に閉じた開発から、チームで共有・レビュー・改善・再利用できる開発スタイルへの移行を目指します。
+
+当Organizationは`パナソニック エナジー 生産技術センター　デジタル基盤革新室　革新企画課`によって主に運営を執り行っております。
+
+運営に不慣れな部分もあろうかと思いますが、デジタルガバナンスを高めることが知識を安全かつ迅速に各現場を助けるものと信じております。  
+皆様のご協力と当該分野の継続的な学習、スキルアップのほどなにとぞよろしくお願いいたします。  
+
+<people>長谷川 敬士(hasegawa.shikata@jp.panasonic.com)</people>
 
 ---
 ## ⚠️ Security Notice
